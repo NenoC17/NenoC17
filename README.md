@@ -13,10 +13,6 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-instagram-URL">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
 
 <div id="intro" align="center">
   <h1>I'm Neno</h1>
